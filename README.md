@@ -41,12 +41,16 @@ The dashboard provides insights into:
 - Dismissal types
 ---
 ## Project Screenshots
+
 ### Overview
 ![Overview](Images/overview.png)
+
 ### IPL Summary
 ![Summary](Images/summary.png)
+
 ### Batsman Stats
 ![Batsman](Images/batsman_stats.png)
+
 ### Bowler Stats
 ![Bowler](Images/bowler_stats.png)
 ---
